@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java,Python,C++,R**
 
-- 👨‍💻 All of my projects are available at [this github page](this github page)
+- 👨‍💻 All of my projects are available at(this github page)
 
 - 💬 Ask me about **Sun Devil Motorsports**
 

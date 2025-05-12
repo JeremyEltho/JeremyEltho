@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Eltho</h1>
-<h3 align="center">💻 A passionate developer from the Bay Area, currently studying Computer Science at ASU building things that run on code.</h3>
+<h3 align="center">💻 A passionate developer from the Bay Area, currently studying Computer Science at                                                                                             ASU building things that run on code.</h3>
 
 - 🔭 I’m currently working on **Drivetrain code for THE SunDevil Motorsports FSAE car merging code with horsepower**
 

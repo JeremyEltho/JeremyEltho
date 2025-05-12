@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [my GitHub page](https://github.com/JeremyEltho)  
 - 💬 Ask me about **Sun Devil Motorsports**  
 - 📫 How to reach me **jeremyeltho@gmail.com**  
-- ⚡ Fun fact: **I’m obsessed with cars — if it has an engine, I’m interested**
+- ⚡ Fun fact: **I’m obsessed with cars - if it has an engine, I’m interested**
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Eltho</h1>
 <h3 align="center">💻 A passionate developer from the Bay Area, currently studying Computer Science at ASU building things that run on code.</h3>
 
-- 🔭 I’m currently working on **drivetrain code for The Sun Devil FSAE car merging code with horsepower**
+- 🔭 I’m currently working on **Drivetrain code for THE SunDevil Motorsports FSAE car merging code with horsepower**
 
 - 🌱 I’m currently learning **Java,Python,C++,R**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="jeremyeltho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeremyeltho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeremyeltho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremyeltho" height="30" width="40" /></a>
 <a href="https://instagram.com/jeremyeltho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeremyeltho" height="30" width="40" /></a>
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Eltho</h1>
 <h3 align="center">💻 A passionate developer from the Bay Area, currently studying Computer Science at ASU building things that run on code.</h3>
 
-- 🔭 I’m currently working on **I'm working on drivetrain code for our FSAE car merging code with horsepower**
+- 🔭 I’m currently working on **drivetrain code for The Sun Devil FSAE car merging code with horsepower**
 
 - 🌱 I’m currently learning **Java,Python,C++,R**
 

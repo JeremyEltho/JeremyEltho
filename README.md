@@ -2,7 +2,7 @@
 <h3 align="center">💻 A passionate developer from the Bay Area, currently studying Computer Science at ASU — building things that run on code.</h3>
 
 - 🔭 I’m currently working on **Drivetrain code for the Sun Devil Motorsports FSAE car**  
-- 🌱 I’m currently learning **Java, Python, C++, R**  
+- 🌱 I’m currently learning **Java, Python, C++, R, JavaScript**  
 - 👨‍💻 All of my projects are available at [my GitHub page](https://github.com/JeremyEltho)  
 - 💬 Ask me about **Sun Devil Motorsports**  
 - 📫 How to reach me **jeremyeltho@gmail.com**  

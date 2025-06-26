@@ -1,10 +1,10 @@
-# Hi there! 👋
+# Hi there!
 
 I'm Jeremy, a passionate developer who loves creating amazing projects.
 
-## 📊 3D GitHub Contribution Graph
+## 3D GitHub Contribution Graph
 
-![3D Contribution Graph](./assets/profile-3d-contrib.svg)
+![3D Contribution Graph](./assets/profile-night-rainbow.svg)
 
 *This 3D contribution graph shows my GitHub activity in a beautiful 3D visualization. It's automatically updated weekly via GitHub Actions.*
 
@@ -19,18 +19,18 @@ I'm Jeremy, a passionate developer who loves creating amazing projects.
 - **Night Rainbow** (`profile-night-rainbow.svg`) - Dark theme with rainbow colors
 - **Git Block** (`profile-gitblock.svg`) - Block-style visualization
 
-## 🚀 About Me
+## About Me
 
 Welcome to my GitHub profile! Here you'll find my latest projects and contributions.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <!-- Add more sections as needed -->
 
 ---
 
 <details>
-<summary>🔧 About this 3D Contribution Graph</summary>
+<summary>About this 3D Contribution Graph</summary>
 
 This 3D contribution graph is generated using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) by yoshi389111.
 

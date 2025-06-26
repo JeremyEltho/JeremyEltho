@@ -2,7 +2,7 @@
 
 This repository contains everything needed to generate and display a 3D GitHub contribution graph.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Manual Generation (One-time)
 
@@ -33,11 +33,11 @@ The GitHub Action in `.github/workflows/generate-3d-contrib.yml` will automatica
 
 **No additional setup required!** The action uses the built-in `GITHUB_TOKEN` automatically.
 
-## 📁 Generated Files
+## Generated Files
 
 The script generates multiple styles in the `assets/` folder:
 
-- `profile-3d-contrib.svg` - Main file (green animated)
+- `profile-night-rainbow.svg` - Main file (night rainbow theme)
 - `profile-green-animate.svg` - Green with animation
 - `profile-green.svg` - Green static
 - `profile-season-animate.svg` - Seasonal colors with animation
@@ -47,7 +47,7 @@ The script generates multiple styles in the `assets/` folder:
 - `profile-night-rainbow.svg` - Dark with rainbow
 - `profile-gitblock.svg` - Block style
 
-## 🎨 Customizing Your Graph
+## Customizing Your Graph
 
 You can modify the graph generation by:
 
@@ -55,7 +55,7 @@ You can modify the graph generation by:
 2. **Custom settings** - Create a settings JSON file (see `github-profile-3d-contrib/sample-settings/`)
 3. **Different schedule** - Modify the cron schedule in `.github/workflows/generate-3d-contrib.yml`
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -82,7 +82,7 @@ export GITHUB_TOKEN=your_token
 node . JeremyEltho
 ```
 
-## 📝 Credits
+## Credits
 
 - 3D Graph Generator: [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) by [@yoshi389111](https://github.com/yoshi389111)
 - Inspiration: Making GitHub profiles more visually appealing!

@@ -53,11 +53,13 @@ jobs:
           if [ -d "github-profile-3d-contrib/profile-3d-contrib" ]; then
             cp github-profile-3d-contrib/profile-3d-contrib/profile-*.svg assets/ 2>/dev/null || true
             
-            # Use the green animated version as the main one, fallback to green static
-            if [ -f "github-profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg" ]; then
-              cp github-profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg assets/profile-3d-contrib.svg
+            # Use the night rainbow version as the main one
+            if [ -f "github-profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" ]; then
+              cp github-profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg assets/profile-night-rainbow.svg
+            elif [ -f "github-profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg" ]; then
+              cp github-profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg assets/profile-night-rainbow.svg
             elif [ -f "github-profile-3d-contrib/profile-3d-contrib/profile-green.svg" ]; then
-              cp github-profile-3d-contrib/profile-3d-contrib/profile-green.svg assets/profile-3d-contrib.svg
+              cp github-profile-3d-contrib/profile-3d-contrib/profile-green.svg assets/profile-night-rainbow.svg
             fi
             
             echo "Generated files:"
@@ -79,7 +81,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Update 3D contribution graph - $(date +'%Y-%m-%d')"
+            git commit -m "Update 3D contribution graph - $(date +'%Y-%m-%d')"
             git push
             echo "Successfully updated 3D contribution graph"
           fi

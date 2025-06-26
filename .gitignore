@@ -1,36 +1,8 @@
-# Dependencies
-node_modules/
-npm-debug.log*
+# Ignore everything
+*
 
-# Environment variables
-.env
-.env.local
+# But not the README
+!README.md
 
-# Cloned repositories (tools)
-github-profile-3d-contrib/
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Build outputs
-dist/
-build/
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Temporary files
-*.tmp
-*.temp
-
-# Log files
-*.log
+# And not this gitignore file itself
+!.gitignore

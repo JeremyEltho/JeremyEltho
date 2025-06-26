@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Jeremy, a passionate developer who loves creating amazing projects.
+I'm Jeremy, a passionate developer who loves creating amazing projects
 
 ## 3D GitHub Contribution Graph
 

@@ -4,5 +4,9 @@
 # But not the README
 !README.md
 
+# But not the assets folder and its contents
+!assets/
+!assets/*
+
 # And not this gitignore file itself
 !.gitignore

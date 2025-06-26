@@ -49,20 +49,4 @@ The graph is automatically updated every Sunday via GitHub Actions. The workflow
 - Generates multiple 3D visualization styles
 - Commits the updated images to the repository
 
-</details>Jeremy, a passionate developer who loves creating amazing projects.
-
-## GitHub Contribution Graph
-
-![3D Contribution Graph](./assets/profile-3d-contrib.svg)
-
-##  About Me
-
-Welcome to my GitHub profile! Here you'll find my latest projects and contributions.
-
-##  GitHub Stats
-
-<!-- Add more sections as needed -->
-
----
-
-*This 3D contribution graph is automatically updated weekly via GitHub Actions.*
+</details>
